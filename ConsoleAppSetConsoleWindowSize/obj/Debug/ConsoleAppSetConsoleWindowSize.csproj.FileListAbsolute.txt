@@ -1,0 +1,7 @@
+C:\Users\Ronan\source\repos\ConsoleAppSetConsoleWindowSize\ConsoleAppSetConsoleWindowSize\bin\Debug\ConsoleAppSetConsoleWindowSize.exe.config
+C:\Users\Ronan\source\repos\ConsoleAppSetConsoleWindowSize\ConsoleAppSetConsoleWindowSize\bin\Debug\ConsoleAppSetConsoleWindowSize.exe
+C:\Users\Ronan\source\repos\ConsoleAppSetConsoleWindowSize\ConsoleAppSetConsoleWindowSize\bin\Debug\ConsoleAppSetConsoleWindowSize.pdb
+C:\Users\Ronan\source\repos\ConsoleAppSetConsoleWindowSize\ConsoleAppSetConsoleWindowSize\obj\Debug\ConsoleAppSetConsoleWindowSize.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\ConsoleAppSetConsoleWindowSize\ConsoleAppSetConsoleWindowSize\obj\Debug\ConsoleAppSetConsoleWindowSize.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\ConsoleAppSetConsoleWindowSize\ConsoleAppSetConsoleWindowSize\obj\Debug\ConsoleAppSetConsoleWindowSize.exe
+C:\Users\Ronan\source\repos\ConsoleAppSetConsoleWindowSize\ConsoleAppSetConsoleWindowSize\obj\Debug\ConsoleAppSetConsoleWindowSize.pdb
